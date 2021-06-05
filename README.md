@@ -1,5 +1,2 @@
-# Comentarios sobre la actividad <h1>
-Lo mas interesante y util de esta actividad para mi fue el hecho de practicar con los codigos y familiarizarme con ellos además ver y experimentar como funncionan las funciones de Marckdown y como permiten personalizar el repositorio.
-
-# Sugerencias <h3>
-Me encantaria seguir conocindo la infinidad de funciones que tiene GitHub, quisiera conocer por primera vez como es realizar un trabajo en grupo, ser lider asignar tareas y organizar de la mejor manera el trabajo, experimentar con mi creatividad y usar las funciones de GitHub como estrategia de innovación.
+# Opinion sobre ela actividad 📖
+Siendo sincera al principio me costo saber donde iba cada cosa, o donde estaba pero poco a poco con la practica me fui adaptando, creo que lo que m´s me gusto y aparte lo que mas me causa algo de curiosidad es saber y experimentar las tantas formas que hay para la personalización de los repositorios, me imagino haciendo una investigación con un muy buen diseño, llamativo, con imagenes, color y todo lo que me pueda imaginar y se que con la parctica voy a lograr muy buenos repositorios y con esto tambien y muy buen perfil el GitHub. 🌼
